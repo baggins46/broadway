@@ -8,11 +8,37 @@ html {
   color: white;
 }
 
-li {
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+a {
   font-size: 18px;
+  font-weight: normal;
   color: white;
   list-style-type: none;
+
 }
+
 .footer {
+  font-size: 14px;
+  color: white;
   text-align: left;
+  background-color: dimgray;
 }
